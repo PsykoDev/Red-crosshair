@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Red Crosshair",
+    "keywords" : ["client"],
+    "author": "PsykoDev",
+    "options": {
+        "guiName": "Red Crosshair",
+        "cliName": "Red Crosshair"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Red-crossair/master"],
+    "supportUrl": "https://github.com/PsykoDev/Red-crossair/issues",
+    "description": "Red Crosshair"
+}
